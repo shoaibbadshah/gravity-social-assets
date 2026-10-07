@@ -14,6 +14,8 @@ The weekly scheduled task follows this file exactly.
   - **SehatFlow** (sehatflow.com) — pharmacy management: sales, inventory, purchasing, reporting
     in one workspace; AI-assisted invoice import; built-in drug interaction checker.
   - **Cheech** — ride-sharing app, live on Google Play, iOS coming to the App Store.
+- Gravity is **ISO-certified** (confirmed by Shoaib, 2026-10-08). Say "ISO-certified" / "ISO-certified process"; don't name a
+  specific ISO standard number unless one is added here.
 - Target audience: **international** founders, startups and business owners (US, UK, EU, Gulf)
   who need an app, web platform or backend built. Write in clear, friendly English.
 
