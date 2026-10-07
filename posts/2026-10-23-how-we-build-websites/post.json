@@ -1,0 +1,46 @@
+{
+  "publish": "2026-10-23T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: building a website step by step",
+  "caption": "How does a website actually get built? Here's how we approach it, step by step. 🛠️\n\n1️⃣ Discover: start with the goal (leads, bookings or sales)\n2️⃣ Design: wireframes, then visual design you review first\n3️⃣ Build: modern stacks like Next.js and React, mobile-first\n4️⃣ Launch & measure: speed, SEO basics and analytics, then improve\n\nNo mystery, no surprises. Swipe through for each step. →\n\nIs your website holding your business back? DM us WEBSITE and tell us what it needs to do.\n\nShare this with someone planning a new site. 🔁\n\n#WebDevelopment #WebDesign #NextJS #React #SmallBusiness #Founders #SoftwareDevelopment #WebsiteRedesign",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "How we build<br><em>a website.</em>",
+      "sub": "Step by step, from first call to launch."
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Discover",
+      "body": "We start with your goal: <b>leads, bookings or sales</b>. Then map the pages and content that get you there."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Design",
+      "body": "Wireframes first, then visual design. <b>You review the layout</b> before the build starts."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Build",
+      "body": "Modern stacks like <b>Next.js and React</b>, mobile-first and tested on real devices as we go."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Launch & measure",
+      "body": "Speed checks, SEO basics and analytics before go-live. <b>Then we use the data</b> to improve."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Website holding you back?",
+      "title": "Let's build one that <em>works for you.</em>",
+      "sub": "Tell us about your business and what the site needs to do.",
+      "button": "DM us “WEBSITE”"
+    }
+  ]
+}

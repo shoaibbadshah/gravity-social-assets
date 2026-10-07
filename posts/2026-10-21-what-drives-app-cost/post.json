@@ -1,0 +1,52 @@
+{
+  "publish": "2026-10-21T21:30:00",
+  "pillar": "education",
+  "topic": "What actually drives the cost of an app",
+  "caption": "“How much does an app cost?” The honest answer: it depends on 5 things, and the number of screens usually isn't one of them. 💡\n\n1️⃣ How many platforms\n2️⃣ How many user types\n3️⃣ Integrations\n4️⃣ Real-time features\n5️⃣ Design complexity\n\nSwipe to see why each one moves the budget. →\n\nWant to know what drives the cost of your idea? DM us COST with a one-line description.\n\nSave this before you request your first quote. 🔖\n\n#AppDevelopment #MobileAppDevelopment #StartupTips #Founders #MVP #SoftwareDevelopment #TechStartup #Entrepreneur",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Budgeting an app?",
+      "title": "What <em>actually</em> drives the cost of an app.",
+      "sub": "Hint: it's rarely the number of screens."
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "How many platforms",
+      "body": "iOS, Android, web, or all three? <b>Each platform</b> adds design, testing and release work. Cross-platform can reduce it."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "How many user types",
+      "body": "A customer app, a driver app and an admin panel are <b>three products</b>, not one."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Integrations",
+      "body": "Payments, maps, SMS, third-party APIs. <b>Every integration</b> adds setup, edge cases and testing."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Real-time features",
+      "body": "Live chat, tracking and instant updates need <b>extra backend work</b> and careful scaling."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Design complexity",
+      "body": "Custom animations and bespoke UI take longer than <b>clean, proven patterns</b>. Polish where it matters most."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Want a realistic estimate?",
+      "title": "Let's scope it <em>together.</em>",
+      "sub": "Tell us your idea and we'll show what drives the cost of yours.",
+      "button": "DM us “COST”"
+    }
+  ]
+}

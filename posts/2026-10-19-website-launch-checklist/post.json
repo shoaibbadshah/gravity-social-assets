@@ -1,0 +1,52 @@
+{
+  "publish": "2026-10-19T21:30:00",
+  "pillar": "education",
+  "topic": "Website launch checklist: 5 things to check before going live",
+  "caption": "Launching a new website? Check these 5 things before you hit publish. 🚀\n\n1️⃣ Speed on a real phone\n2️⃣ Every form actually sends\n3️⃣ Basic SEO is in place\n4️⃣ Analytics are tracking\n5️⃣ Security and backups\n\nSmall misses here quietly cost you visitors and leads from day one. Swipe for what to check in each. →\n\nLaunching soon? DM us LAUNCH and we'll go through this checklist with you.\n\nSave this for your next launch. 🔖\n\n#WebDevelopment #WebsiteLaunch #SEO #WebPerformance #SmallBusiness #StartupTips #Founders #NextJS",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Launching a website?",
+      "title": "Check these 5 things <em>before</em> you go live.",
+      "sub": "Small misses here cost you visitors on day one."
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Speed on a real phone",
+      "body": "Test on mobile data, not office Wi-Fi. <b>Compress images</b> and cut heavy scripts."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Every form actually sends",
+      "body": "Submit each contact and booking form yourself. <b>Check the email arrives</b> in the right inbox."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Basic SEO is in place",
+      "body": "Unique page titles, meta descriptions, a sitemap, and <b>no “noindex” left over</b> from staging."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Analytics are tracking",
+      "body": "Install analytics and test it. <b>Without day-one data</b>, you can't tell what's working."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Security and backups",
+      "body": "HTTPS everywhere, updated plugins and libraries, and <b>a tested backup</b> you can restore."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Before you hit publish",
+      "title": "Want a second pair of <em>eyes on it?</em>",
+      "sub": "We'll go through this checklist with you before launch.",
+      "button": "DM us “LAUNCH”"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "publish": "2026-10-22T21:30:00",
+  "pillar": "myth",
+  "topic": "Myth: once the app launches, the work is done",
+  "caption": "Myth: “Once the app launches, the work is done.” 🏁\n\nLaunch is day one, not the finish line.\n\nAfter launch, apps need iOS and Android updates, security patches, dependency upgrades, bug fixes, and improvements based on how real users actually use them.\n\nTeams that plan for maintenance from the start ship better updates, faster, and avoid the painful “we need to rebuild it” moment a year later.\n\nAgree or disagree? Tell us in the comments. 👇\n\n#AppMaintenance #MobileAppDevelopment #SoftwareDevelopment #StartupTips #Founders #TechStartup #ProductManagement",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "myth",
+      "myth": "“Once the app launches, <em>the work is done.</em>”",
+      "fact": "Launch is day one. Apps need <b>OS updates, security patches and bug fixes</b>, plus improvements from real user feedback. Plan for maintenance from the start."
+    }
+  ]
+}

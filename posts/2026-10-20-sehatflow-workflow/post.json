@@ -1,0 +1,38 @@
+{
+  "publish": "2026-10-20T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "SehatFlow workflow: supplier invoice to report in one workspace",
+  "caption": "From supplier invoice to sales report, without switching tools. 💊\n\nSehatFlow is the pharmacy management platform we designed and built in-house. Here's how a pharmacy's day flows through it:\n\n▸ Purchasing: AI-assisted invoice import, so less manual typing\n▸ Inventory: stock lives in the same workspace as sales\n▸ Sales: a built-in drug interaction checker\n▸ Reporting: on the same data, not a separate tool\n\nOne workspace instead of four disconnected ones.\n\nRun a pharmacy? Take a look at sehatflow.com 🔗\n\nShare this with a pharmacy owner you know. 🔁\n\n#SehatFlow #PharmacySoftware #HealthTech #SaaS #PharmacyManagement #ProductDevelopment #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Built by Gravity",
+      "title": "From supplier invoice to <em>sales report.</em>",
+      "sub": "How SehatFlow keeps a pharmacy's whole day in one workspace.",
+      "pills": [
+        "SehatFlow",
+        "SaaS",
+        "AI-assisted"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "The flow",
+      "title": "One workspace, end to end",
+      "items": [
+        "<b>Purchasing:</b> AI-assisted invoice import cuts manual typing",
+        "<b>Inventory:</b> stock lives alongside sales",
+        "<b>Sales:</b> a built-in drug interaction checker",
+        "<b>Reporting:</b> on the same data, not a separate tool"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "See it for yourself",
+      "title": "Run a pharmacy? <em>Take a look.</em>",
+      "sub": "Sales, inventory, purchasing and reporting in one place.",
+      "button": "sehatflow.com"
+    }
+  ]
+}
