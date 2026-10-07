@@ -1,0 +1,14 @@
+{
+  "publish": "2026-10-15T21:30:00",
+  "pillar": "myth",
+  "topic": "Myth: you need a fully custom backend from day one",
+  "caption": "Myth: “We need a fully custom backend from day one.” 🛠️\n\nMost MVPs launch faster and cheaper on proven building blocks: managed authentication, a hosted database, serverless functions and battle-tested APIs.\n\nGo custom where it creates your edge, and when real scale demands it. Not before.\n\nThe goal of version one isn't perfect architecture. It's learning whether people want what you built.\n\nAgree or disagree? Tell us in the comments. 👇\n\n#BackendDevelopment #MVP #StartupTips #Serverless #SoftwareArchitecture #CloudComputing #AWS #TechStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "myth",
+      "myth": "“We need a fully custom backend <em>from day one.</em>”",
+      "fact": "Most MVPs launch faster on <b>proven building blocks</b>: managed auth, a hosted database, serverless functions. Go custom where it creates your edge, and when real scale demands it."
+    }
+  ]
+}

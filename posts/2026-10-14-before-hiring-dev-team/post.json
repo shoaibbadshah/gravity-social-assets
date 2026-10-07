@@ -1,0 +1,27 @@
+{
+  "publish": "2026-10-14T21:30:00",
+  "pillar": "education",
+  "topic": "5 things to prepare before hiring a dev team",
+  "caption": "Hiring a dev team for your app or platform? Have these 5 things ready before the first call. They'll save you weeks and a lot of money. 💡\n\n1️⃣ The problem, in one sentence\n2️⃣ Who your users are\n3️⃣ Must-haves vs. nice-to-haves\n4️⃣ A realistic budget range\n5️⃣ How you'll measure success\n\nSwipe for the why behind each one. →\n\nGot all 5? DM us SCOPE and we'll help turn them into a clear scope, timeline and estimate.\n\nSave this and share it with a co-founder. 🔖\n\n#StartupTips #Founders #MVP #SoftwareDevelopment #AppDevelopment #ProductManagement #TechStartup #Entrepreneur",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Hiring a dev team?",
+      "title": "5 things to have ready <em>before</em> the first call.",
+      "sub": "They'll save you weeks, and a lot of money."
+    },
+    {"type": "point", "n": "01", "title": "The problem, in one sentence", "body": "Not the features. The problem. <b>“Clinics lose bookings in WhatsApp chats”</b> beats a 40-item feature list."},
+    {"type": "point", "n": "02", "title": "Who your users are", "body": "Customers, staff, admins? <b>Each user type adds</b> screens, permissions and testing."},
+    {"type": "point", "n": "03", "title": "Must-haves vs. nice-to-haves", "body": "Your first version should do <b>3 to 5 things really well</b>. Everything else goes on the roadmap."},
+    {"type": "point", "n": "04", "title": "A realistic budget range", "body": "Not an exact number, a <b>range</b>. It lets a good team suggest the right scope instead of guessing."},
+    {"type": "point", "n": "05", "title": "How you'll measure success", "body": "Sign-ups? Orders? Hours saved? <b>Define it now</b> so every decision points at it."},
+    {
+      "type": "cta",
+      "eyebrow": "Next step",
+      "title": "Got all five? <em>Let's talk.</em>",
+      "sub": "We'll turn them into a clear scope, timeline and estimate.",
+      "button": "DM us “SCOPE”"
+    }
+  ]
+}

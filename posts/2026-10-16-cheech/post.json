@@ -1,0 +1,35 @@
+{
+  "publish": "2026-10-16T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "Cheech ride-sharing app intro",
+  "caption": "Cheech, our ride-sharing app, is live on Google Play, and the iOS version is on the way. 🚗\n\nRide-sharing looks simple from the passenger seat. Under the hood, it means solving some of the hardest problems in app development:\n\n▸ Real-time location for riders and drivers\n▸ Matching the right driver to the right rider\n▸ Maps, routing and ETAs\n▸ A great experience on both sides of the marketplace\n▸ Trust and safety\n\nWe built it ourselves, end to end.\n\nBuilding a marketplace or on-demand app? DM us APP and let's talk about yours.\n\n#RideSharing #MobileAppDevelopment #ReactNative #OnDemandApp #MarketplaceApp #AppDevelopment #StartupTips #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Built by Gravity",
+      "title": "<em>Cheech</em> is live on Google Play.",
+      "sub": "Our ride-sharing app, built end to end by our team. iOS is on the way.",
+      "pills": ["Android ✓", "iOS · coming soon"]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Under the hood",
+      "title": "What a ride-sharing app has to get right",
+      "items": [
+        "<b>Real-time location</b> for riders and drivers",
+        "<b>Matching</b> the right driver to the right rider",
+        "<b>Maps, routing</b> and ETAs",
+        "<b>Two sides</b>, one great experience",
+        "<b>Trust & safety</b> built in"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Your app next?",
+      "title": "Building a marketplace or <em>on-demand app?</em>",
+      "sub": "We've shipped one. Let's talk about yours.",
+      "button": "DM us “APP”"
+    }
+  ]
+}

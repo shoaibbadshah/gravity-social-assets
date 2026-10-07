@@ -1,0 +1,33 @@
+{
+  "publish": "2026-10-13T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "SehatFlow product intro",
+  "caption": "Meet SehatFlow, a pharmacy management platform we designed and built in-house. 💊\n\nPharmacies juggle sales, stock, suppliers and reports, often across several tools and a lot of manual typing. SehatFlow brings it into one fast workspace:\n\n▸ Sales, inventory, purchasing & reporting in one place\n▸ AI-assisted invoice import, so less manual data entry\n▸ A built-in drug interaction checker\n\nBuilding our own products keeps us sharp. We know what it takes to go from idea to a real SaaS platform that real businesses rely on.\n\n🔗 sehatflow.com\n\nWant a platform like this for your industry? DM us and let's talk about your build.\n\n#SaaS #ProductDevelopment #HealthTech #PharmacySoftware #WebDevelopment #AI #FullStack #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Built by Gravity",
+      "title": "Meet <em>SehatFlow.</em>",
+      "sub": "Pharmacy operations in one fast workspace, a product we designed and built in-house.",
+      "pills": ["SaaS", "AI features", "Web platform"]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What it does",
+      "title": "One workspace, not four tools",
+      "items": [
+        "<b>Sales, inventory, purchasing & reporting</b> in a single place",
+        "<b>AI-assisted invoice import</b>: less manual data entry",
+        "<b>Drug interaction checker</b>, built right in"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Your industry next?",
+      "title": "Want a platform like this <em>for your business?</em>",
+      "sub": "We build SaaS products end to end: web app, backend, AI features and deployment.",
+      "button": "DM us to talk about your build"
+    }
+  ]
+}

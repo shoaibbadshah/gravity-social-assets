@@ -1,0 +1,16 @@
+{
+  "publish": "2026-10-09T21:30:00",
+  "pillar": "offer/intro",
+  "topic": "Who we are: product-minded dev team",
+  "caption": "We build software that ships. 🚀\n\nGravity is a development team that designs, builds and launches:\n\n▸ Web apps & websites\n▸ iOS & Android apps\n▸ Backends, APIs & cloud infrastructure\n▸ Full products, from first sketch to launch\n\nWe don't just write code to a spec. We build our own products too, so we think like founders: what to build first, what to skip, and how to get to launch without burning the budget.\n\nOver the coming weeks we'll share practical guides on building apps, plus a look inside the products we've built.\n\nHave an idea you want to build? Send us a DM. 💬\n\n#SoftwareDevelopment #WebDevelopment #MobileAppDevelopment #FullStack #StartupTips #ReactNative #NextJS #TechStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Web · Mobile · Backend · Full-stack",
+      "title": "We build software that <em>ships.</em>",
+      "sub": "A product-minded dev team. We design, build and launch web apps, mobile apps and the backends behind them.",
+      "pills": ["React", "Next.js", "React Native", "Node.js", "AWS"]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "publish": "2026-10-12T21:30:00",
+  "pillar": "education",
+  "topic": "Native vs React Native vs Flutter for founders",
+  "caption": "Native, React Native or Flutter? It's one of the first questions every app founder asks, and the answer is less about technology than you'd think. 📱\n\nSwipe through for the founder's version:\n\n✅ Native when your app lives on the hardware (camera, Bluetooth, heavy background work)\n✅ Cross-platform when you need iOS + Android fast on one budget, which covers most business apps\n✅ Decide on your roadmap and who will maintain it, not on hype\n\nNot sure which fits your idea? DM us the word STACK with a one-line description and we'll tell you what we'd pick and why. Free.\n\nSave this for when you start your app. 🔖\n\n#MobileAppDevelopment #ReactNative #Flutter #iOSDevelopment #AndroidDevelopment #StartupTips #AppDevelopment #Founders",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Founder's guide",
+      "title": "Native, React Native or Flutter: which does <em>your app</em> need?",
+      "sub": "The honest answer depends on three things. Swipe →"
+    },
+    {
+      "type": "compare",
+      "eyebrow": "The short version",
+      "title": "Three paths",
+      "cols": [
+        {"k": "Swift / Kotlin", "name": "Native", "text": "Best performance and deepest device access. Two codebases, so a higher build and maintenance cost."},
+        {"k": "JavaScript / TypeScript", "name": "React Native", "text": "One codebase for iOS and Android, huge ecosystem. A strong fit for most business apps."},
+        {"k": "Dart", "name": "Flutter", "text": "One codebase with a pixel-consistent UI. A smaller hiring pool than JavaScript."}
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Choose native when…",
+      "body": "your app <b>lives on the hardware</b>: heavy camera or AR work, Bluetooth devices, complex background tasks, or high-end games."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Choose cross-platform when…",
+      "body": "you need <b>iOS and Android fast, on one budget</b>, and your app is mostly screens, forms, maps, payments and real-time updates. That's most startups."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Don't decide on hype.",
+      "body": "Decide on <b>your roadmap, your budget</b> and who will maintain the app two years from now."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Free stack advice",
+      "title": "Not sure which fits <em>your idea?</em>",
+      "sub": "Send us a one-line description. We'll tell you which stack we'd pick and why.",
+      "button": "DM us “STACK”"
+    }
+  ]
+}
