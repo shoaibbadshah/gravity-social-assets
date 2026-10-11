@@ -1,0 +1,52 @@
+{
+  "publish": "2026-10-26T21:30:00",
+  "pillar": "education",
+  "topic": "MVP scoping: what to leave out of version one",
+  "caption": "The fastest way to launch your MVP? Decide what NOT to build. ✂️\n\n5 things most first versions can safely leave out:\n\n1️⃣ Every user role on day one\n2️⃣ A custom admin dashboard\n3️⃣ \"Nice-to-have\" integrations\n4️⃣ Pixel-perfect animations\n5️⃣ Building for a million users\n\nCut these and you ship sooner, learn faster and spend your budget on what your users actually need. Swipe for the why. →\n\nNot sure what belongs in your v1? DM us MVP with your idea in one line and we'll help you trim it.\n\nSave this for your next planning session. 🔖\n\n#MVP #StartupTips #Founders #ProductManagement #AppDevelopment #SoftwareDevelopment #TechStartup #LeanStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Planning an MVP?",
+      "title": "5 things to <em>leave out</em> of version one.",
+      "sub": "Ship sooner by deciding what not to build."
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Every user role",
+      "body": "Launch for <b>the one user</b> who feels the problem most. Add other roles once the core flow works."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "A custom admin dashboard",
+      "body": "Early on, a <b>simple internal tool</b> or a managed admin panel is usually enough. Build custom later."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Nice-to-have integrations",
+      "body": "Keep the integrations your core flow <b>can't work without</b>. Park the rest on the roadmap."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Pixel-perfect animations",
+      "body": "A <b>clean, consistent UI</b> beats custom motion in v1. Polish the screens people use most."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Building for a million users",
+      "body": "Use a <b>solid, scalable foundation</b>, but don't over-engineer for traffic you don't have yet."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Scoping your v1?",
+      "title": "Let's trim it <em>together.</em>",
+      "sub": "Send us your idea and we'll help you find the smallest version worth launching.",
+      "button": "DM us “MVP”"
+    }
+  ]
+}

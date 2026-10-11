@@ -1,0 +1,14 @@
+{
+  "publish": "2026-10-29T21:30:00",
+  "pillar": "myth",
+  "topic": "Myth: more features make a better app",
+  "caption": "Myth: “More features make a better app.” 🧩\n\nUsers don't open your app to admire the feature list. They open it to get one job done, fast.\n\nEvery extra feature adds design work, testing, maintenance and one more thing for users to learn. Too many, and the thing they actually came for gets buried.\n\nThe best apps do a few things really well, then grow based on what real users ask for.\n\nAgree or disagree? Tell us in the comments. 👇\n\n#AppDevelopment #ProductManagement #UXDesign #MVP #StartupTips #Founders #SoftwareDevelopment",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "myth",
+      "myth": "“More features make<br><em>a better app.</em>”",
+      "fact": "Users come to get <b>one job done, fast</b>. Every extra feature adds testing, maintenance and clutter. Do a few things really well, then grow from real feedback."
+    }
+  ]
+}

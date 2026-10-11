@@ -1,0 +1,49 @@
+{
+  "publish": "2026-10-28T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "Cheech: a ride-sharing app is really three products",
+  "caption": "From the passenger seat, a ride-sharing app looks like one app. Building Cheech showed us it's really three. 🚗\n\n▸ The rider experience: book fast, see where the car is\n▸ The driver experience: clear requests and simple navigation\n▸ The backend in the middle: real-time data that connects both sides\n\nEach one needs its own design thinking, and all three have to work together in real time.\n\nCheech is live on Google Play, with iOS on the way to the App Store.\n\nBuilding a two-sided or on-demand app? DM us RIDE and let's talk about yours.\n\nShare this with a founder building a marketplace. 🔁\n\n#Cheech #RideSharing #OnDemandApp #MarketplaceApp #MobileAppDevelopment #BackendDevelopment #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Built by Gravity",
+      "title": "One ride-sharing app. <em>Three products.</em>",
+      "sub": "What building Cheech taught us about two-sided apps.",
+      "pills": [
+        "Cheech",
+        "Android ✓",
+        "iOS · coming soon"
+      ]
+    },
+    {
+      "type": "compare",
+      "eyebrow": "Under the hood",
+      "title": "Three sides, one experience",
+      "cols": [
+        {
+          "k": "01",
+          "name": "Rider",
+          "text": "Book quickly and always know where the car is."
+        },
+        {
+          "k": "02",
+          "name": "Driver",
+          "text": "Clear requests and simple navigation."
+        },
+        {
+          "k": "03",
+          "name": "Backend",
+          "text": "Real-time data that connects both sides."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Building a two-sided app?",
+      "title": "We've shipped one. <em>Yours next?</em>",
+      "sub": "Cheech is live on Google Play. iOS is on the way.",
+      "button": "DM us “RIDE”"
+    }
+  ]
+}

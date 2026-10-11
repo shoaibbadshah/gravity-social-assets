@@ -1,0 +1,54 @@
+{
+  "publish": "2026-10-30T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: the tech stack we build with, and why",
+  "caption": "What do we actually build with? Here's our stack, layer by layer. 🧱\n\n▸ Web: React and Next.js\n▸ Mobile: React Native for iOS and Android\n▸ Backend: Node.js, TypeScript, Python/FastAPI and .NET\n▸ Data: PostgreSQL, MongoDB, MySQL and DynamoDB\n▸ Cloud: AWS, Docker and CI/CD pipelines\n\nWe pick from proven tools based on your product and who will maintain it, not on hype. All delivered through our ISO-certified process.\n\nWondering which stack fits your project? DM us STACK and we'll tell you what we'd pick and why.\n\nSave this for when you brief your dev team. 🔖\n\n#TechStack #WebDevelopment #MobileAppDevelopment #BackendDevelopment #React #NextJS #NodeJS #AWS",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "The stack<br>we <em>build with.</em>",
+      "sub": "Proven tools, chosen for your product, not for hype.",
+      "pills": [
+        "Web",
+        "Mobile",
+        "Backend",
+        "Cloud"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Front end",
+      "title": "What your users touch",
+      "items": [
+        "<b>Web:</b> React and Next.js",
+        "<b>Mobile:</b> React Native for iOS and Android",
+        "<b>Built mobile-first</b> and tested on real devices"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Back end",
+      "title": "What keeps it running",
+      "items": [
+        "<b>APIs:</b> Node.js, Python/FastAPI, .NET",
+        "<b>Data:</b> PostgreSQL, MongoDB, DynamoDB",
+        "<b>Cloud:</b> AWS, Docker and CI/CD"
+      ]
+    },
+    {
+      "type": "point",
+      "n": "→",
+      "title": "How we choose",
+      "body": "We match the stack to <b>your product, your team and who maintains it</b>. All delivered through our ISO-certified process."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Not sure what fits?",
+      "title": "Ask what <em>we'd pick.</em>",
+      "sub": "Tell us about your project and we'll explain our choice.",
+      "button": "DM us “STACK”"
+    }
+  ]
+}

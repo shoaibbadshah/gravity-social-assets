@@ -1,0 +1,52 @@
+{
+  "publish": "2026-10-27T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: building a mobile app step by step",
+  "caption": "How does a mobile app go from idea to the App Store and Google Play? Here's how we approach it. 📱\n\n1️⃣ Scope: the core user journey and what v1 needs\n2️⃣ Design: clickable screens you review before we build\n3️⃣ Build: app and backend together, often with React Native\n4️⃣ Test: on real iOS and Android devices\n5️⃣ Release & improve: store submission, then updates\n\nA clear process means fewer surprises for you. Swipe through for each step. →\n\nGot an app idea? DM us BUILD and tell us what it should do.\n\nShare this with someone planning an app. 🔁\n\n#MobileAppDevelopment #AppDevelopment #ReactNative #iOSDevelopment #AndroidDevelopment #Founders #StartupTips #SoftwareDevelopment",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "How we build<br><em>a mobile app.</em>",
+      "sub": "Step by step, from idea to the app stores."
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Scope",
+      "body": "We map the <b>core user journey</b> and agree on what version one needs, and what can wait."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Design",
+      "body": "Clickable screens first. <b>You review the flow</b> before a line of app code is written."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Build",
+      "body": "App and backend built together, often with <b>React Native</b> so iOS and Android share one codebase."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Test",
+      "body": "We test on <b>real iOS and Android devices</b>, not just simulators, before anything ships."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Release & improve",
+      "body": "App Store and Google Play submission, then <b>updates based on real usage</b>."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Got an app idea?",
+      "title": "Let's map out <em>your build.</em>",
+      "sub": "Tell us what your app should do and who it's for.",
+      "button": "DM us “BUILD”"
+    }
+  ]
+}
