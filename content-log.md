@@ -13,7 +13,13 @@
 | 2026-10-21 21:30 | 2026-10-21-what-drives-app-cost | education | What actually drives the cost of an app | 7 |
 | 2026-10-22 21:30 | 2026-10-22-myth-launch-is-done | myth | Myth: once the app launches, the work is done | 1 |
 | 2026-10-23 21:30 | 2026-10-23-how-we-build-websites | services | How we work: building a website step by step | 6 |
+| 2026-10-26 21:30 | 2026-10-26-mvp-what-to-cut | education | MVP scoping: 5 things to leave out of version one | 7 |
+| 2026-10-27 21:30 | 2026-10-27-how-we-build-mobile-apps | services | How we work: building a mobile app step by step | 7 |
+| 2026-10-28 21:30 | 2026-10-28-cheech-three-products | showcase/product | Cheech: a ride-sharing app is really three products | 3 |
+| 2026-10-29 21:30 | 2026-10-29-myth-more-features | myth | Myth: more features make a better app | 1 |
+| 2026-10-30 21:30 | 2026-10-30-our-tech-stack | services | How we work: the tech stack we build with | 5 |
 
 ## Weekly notes
 - 2026-10-08: Account is new; Metricool has no best-time data yet. Using 21:30 PKT.
 - 2026-10-07: Review window Sep 30–Oct 7 covers 8 manually published posts (pipeline posts start Oct 9). Numbers are tiny (IG followers 3; FB followers 104→243). Top: Sep 30 "website might be why customers leave" (IG 1 like + 2 comments, FB reach 4) with Oct 1 website-redesign post close behind (1 comment each on IG/FB). Bottom: Oct 4 "website vs app" (FB reach 2, 0 IG engagement). Change: leaned toward website/services (website launch checklist + how-we-build-websites); avoided topics already covered by the manual posts. Best-time data still all zeros, kept 21:30 PKT. Week 2 = Oct 19–23.
+- 2026-10-11: Review window Oct 4–11 had only 2 published posts (pipeline posts start Oct 12). IG followers flat at 3; FB followers 239→243 (+5 gained, 0 lost). Top: Oct 9 intro "We build software that ships" (FB reach 8, IG reach 0, no engagement). Bottom: Oct 4 "website vs app" (FB reach 2, IG reach 1, 0 engagement). Zero likes/comments/saves/shares on both networks. Change: leaned toward the top (who-we-are/services) pillar by swapping one education slot for a second "how we work" post (mobile build process + tech stack); kept 1 education, 1 product (Cheech, alternating from SehatFlow), 1 myth. Best-time data still all zeros, kept 21:30 PKT. Week 3 = Oct 26–30.
