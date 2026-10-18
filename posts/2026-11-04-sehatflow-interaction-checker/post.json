@@ -1,0 +1,37 @@
+{
+  "publish": "2026-11-04T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "SehatFlow: drug interaction checker built into the sale",
+  "caption": "A safety check that lives where the sale happens. 💊\n\nOne of the features we built into SehatFlow, our pharmacy management platform, is a built-in drug interaction checker.\n\nWhy build it in instead of bolting it on?\n\n▸ It sits in the same workspace as sales, so there's no extra tool to open\n▸ It's right there at the counter, when it matters\n▸ It shares one platform with inventory, purchasing and reporting\n\nThat's how we think about product design: put the right tool exactly where the work happens.\n\nRun a pharmacy? Take a look at sehatflow.com 🔗\n\nShare this with a pharmacist you know. 🔁\n\n#SehatFlow #PharmacySoftware #HealthTech #PharmacyManagement #SaaS #ProductDesign #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Built by Gravity",
+      "title": "A safety check,<br><em>right at the counter.</em>",
+      "sub": "SehatFlow's built-in drug interaction checker.",
+      "pills": [
+        "SehatFlow",
+        "SaaS",
+        "HealthTech"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why build it in",
+      "title": "Where the work happens",
+      "items": [
+        "<b>Same workspace</b> as sales, so no extra tool to open",
+        "<b>At the counter,</b> right when it matters",
+        "<b>One platform</b> with inventory, purchasing and reporting"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "See it for yourself",
+      "title": "Run a pharmacy? <em>Take a look.</em>",
+      "sub": "Sales, inventory, purchasing and reporting in one place.",
+      "button": "sehatflow.com"
+    }
+  ]
+}

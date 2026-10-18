@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-06T21:30:00",
+  "pillar": "education",
+  "topic": "Performance: 5 common reasons a web app feels slow",
+  "caption": "Is your web app slow? It's usually one of these 5 things. ⚡\n\n1️⃣ Images that are far too big\n2️⃣ Too many requests per screen\n3️⃣ No caching\n4️⃣ Database queries without indexes\n5️⃣ Shipping too much JavaScript\n\nThe good news: most of these are fixable without a rebuild. Swipe for what to look at in each. →\n\nApp feeling sluggish? DM us SPEED and tell us where it slows down.\n\nSave this for your next performance review. 🔖\n\n#WebPerformance #WebDevelopment #BackendDevelopment #React #NextJS #SoftwareDevelopment #StartupTips #Founders",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Performance",
+      "title": "5 reasons your<br>web app <em>feels slow.</em>",
+      "sub": "Most are fixable without a rebuild. Swipe →",
+      "pills": [
+        "Frontend",
+        "Backend",
+        "Data"
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Images that are too big",
+      "body": "Serve <b>resized, compressed, modern formats</b> and lazy-load what's below the fold. Often the quickest win."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Too many requests",
+      "body": "A screen that makes a dozen API calls waits on all of them. <b>Combine or batch</b> what loads together."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "No caching",
+      "body": "If data rarely changes, <b>cache it</b> in the browser, at a CDN or on the server instead of rebuilding it every time."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Unindexed queries",
+      "body": "A query that's fast with 100 rows can crawl with a million. <b>Add the right indexes</b> as your data grows."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Too much JavaScript",
+      "body": "Big bundles delay every page. <b>Split code</b> and render on the server where it helps, as Next.js makes easy."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Feeling sluggish?",
+      "title": "Let's find<br><em>the bottleneck.</em>",
+      "sub": "Tell us where your app slows down and we'll tell you where we'd look first.",
+      "button": "DM us “SPEED”"
+    }
+  ]
+}

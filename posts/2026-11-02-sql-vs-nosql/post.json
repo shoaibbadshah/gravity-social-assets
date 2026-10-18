@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-02T21:30:00",
+  "pillar": "education",
+  "topic": "SQL vs NoSQL: PostgreSQL or MongoDB for your product",
+  "caption": "PostgreSQL or MongoDB? Your database choice is easy to make and hard to undo. 🗄️\n\nThe founder's version:\n\n✅ SQL (PostgreSQL, MySQL) when your data is connected: users, orders, payments, reports\n✅ NoSQL (MongoDB, DynamoDB) when your data is flexible or document-shaped, or you need simple scaling for high volume\n✅ Decide on how your data relates and how you'll query it, not on what's trending\n\nSwipe for the details. →\n\nNot sure which fits your product? DM us DATA with a one-line description and we'll tell you what we'd pick and why.\n\nSave this for your next tech decision. 🔖\n\n#Database #PostgreSQL #MongoDB #BackendDevelopment #SoftwareArchitecture #StartupTips #Founders #TechStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Founder's guide",
+      "title": "SQL or NoSQL: which database does <em>your product</em> need?",
+      "sub": "Easy to choose, hard to undo. Swipe →"
+    },
+    {
+      "type": "compare",
+      "eyebrow": "The short version",
+      "title": "Two families",
+      "cols": [
+        {
+          "k": "PostgreSQL / MySQL",
+          "name": "SQL",
+          "text": "Tables with clear relationships. Strong consistency and powerful queries for connected data."
+        },
+        {
+          "k": "MongoDB / DynamoDB",
+          "name": "NoSQL",
+          "text": "Flexible documents or key-value items. Easy to evolve and scale for simple, high-volume access."
+        }
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Choose SQL when…",
+      "body": "your data is <b>connected</b>: users, orders, payments, inventory and reports that all reference each other. That's most business apps."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Choose NoSQL when…",
+      "body": "your data is <b>flexible or document-shaped</b>, like content, events or logs, and you read it in predictable ways at high volume."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Don't decide on hype.",
+      "body": "Decide on <b>how your data relates</b> and the questions you'll ask it. Many products use both, each where it fits."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Free stack advice",
+      "title": "Not sure which fits <em>your product?</em>",
+      "sub": "Send us a one-line description. We'll tell you what we'd pick and why.",
+      "button": "DM us “DATA”"
+    }
+  ]
+}

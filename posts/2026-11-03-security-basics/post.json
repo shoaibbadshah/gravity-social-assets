@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-03T21:30:00",
+  "pillar": "education",
+  "topic": "Security basics: 5 things every app should have from day one",
+  "caption": "Security isn't a feature you add later. These 5 basics belong in version one. 🔐\n\n1️⃣ HTTPS everywhere\n2️⃣ Passwords hashed, never stored\n3️⃣ Secrets out of the code\n4️⃣ The right access for the right user\n5️⃣ Updates and backups\n\nNone of these are expensive on day one. All of them are expensive to fix after a breach. Swipe for the why. →\n\nWant a second pair of eyes on your app? DM us SECURE and tell us what you're building.\n\nSave this and share it with your tech lead. 🔖\n\n#AppSecurity #CyberSecurity #WebDevelopment #BackendDevelopment #StartupTips #Founders #SoftwareDevelopment #DevSecOps",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Security basics",
+      "title": "5 things every app needs <em>from day one.</em>",
+      "sub": "Cheap to build in. Expensive to fix after a breach.",
+      "pills": [
+        "Web",
+        "Mobile",
+        "Backend"
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "HTTPS everywhere",
+      "body": "Every request between your app and server should be <b>encrypted in transit</b>. No exceptions, including admin panels and APIs."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Hash every password",
+      "body": "Use a proven hashing algorithm or a <b>managed auth service</b>. If your database leaks, passwords shouldn't."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Keep secrets out of the code",
+      "body": "API keys and database passwords belong in <b>environment variables or a secrets manager</b>, not in your repo."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Right access, right user",
+      "body": "Check permissions <b>on the server</b>, not just in the UI. Users should only ever see their own data."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Updates and backups",
+      "body": "Patch dependencies regularly and run <b>automated backups you've actually tested</b> restoring."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Building something?",
+      "title": "Get a second<br><em>pair of eyes.</em>",
+      "sub": "Tell us what you're building and we'll point out what to secure first.",
+      "button": "DM us “SECURE”"
+    }
+  ]
+}

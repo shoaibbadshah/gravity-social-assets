@@ -1,0 +1,14 @@
+{
+  "publish": "2026-11-05T21:30:00",
+  "pillar": "myth",
+  "topic": "Myth: cross-platform apps are always slow",
+  "caption": "Myth: “Cross-platform apps are always slow.” 🐢\n\nModern frameworks like React Native power smooth, fast apps on both iOS and Android from a single codebase.\n\nWhen an app feels slow, the cause is usually how it was built: oversized images, too many network calls, heavy screens doing too much at once. Those problems slow native apps down too.\n\nNative still wins for some cases, like heavy graphics or deep hardware work. For most business apps, good engineering matters more than the framework.\n\nAgree or disagree? Tell us in the comments. 👇\n\n#ReactNative #MobileAppDevelopment #CrossPlatform #AppPerformance #iOSDevelopment #AndroidDevelopment #StartupTips",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "myth",
+      "myth": "“Cross-platform apps are<br><em>always slow.</em>”",
+      "fact": "Modern frameworks like <b>React Native</b> run smoothly on iOS and Android. Slowness usually comes from how an app is built, not the framework."
+    }
+  ]
+}
