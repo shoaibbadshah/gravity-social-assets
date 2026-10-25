@@ -1,0 +1,26 @@
+{
+  "publish": "2026-11-12T21:30:00",
+  "pillar": "myth/quick-take",
+  "topic": "Quick take: no-code or a custom build?",
+  "caption": "No-code or a custom build? Quick take. ⚖️\n\nNo-code tools are great for testing an idea fast: simple workflows, internal tools, a first prototype.\n\nA custom build makes sense when you need your own business logic, serious integrations, room to scale, or full ownership of your code and data.\n\nNeither is \"better\". The right choice depends on what you're building and where it needs to go next. Plenty of products start in one and move to the other.\n\nWhich one did you start with? Tell us in the comments. 👇\n\n#NoCode #CustomSoftware #MVP #StartupTips #Founders #SoftwareDevelopment #TechStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "compare",
+      "eyebrow": "Quick take",
+      "title": "No-code or <em>custom build?</em>",
+      "cols": [
+        {
+          "k": "Fast to test",
+          "name": "No-code",
+          "text": "Great for validating an idea: simple workflows, internal tools, a first prototype."
+        },
+        {
+          "k": "Built to grow",
+          "name": "Custom",
+          "text": "Best when you need your own logic, deep integrations, scale, or full ownership of code and data."
+        }
+      ]
+    }
+  ]
+}

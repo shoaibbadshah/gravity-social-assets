@@ -1,0 +1,53 @@
+{
+  "publish": "2026-11-10T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: building a backend and API step by step",
+  "caption": "Your users never see the backend. They feel it every time the app is fast, safe and just works. ⚙️\n\nHere's how we approach building one:\n\n1️⃣ Model the data and business rules\n2️⃣ Design the API (REST or GraphQL) before building it\n3️⃣ Build it with tests, in Node.js, Python/FastAPI or .NET\n4️⃣ Secure and deploy with Docker, CI/CD and AWS\n5️⃣ Monitor and improve once real users arrive\n\nAll through our ISO-certified process. Swipe for each step. →\n\nNeed a backend for your web or mobile app? DM us API and tell us what it has to do.\n\nShare this with someone building a product. 🔁\n\n#BackendDevelopment #API #NodeJS #GraphQL #AWS #SoftwareArchitecture #Founders #SoftwareDevelopment",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "How we build <em>a backend.</em>",
+      "sub": "The part users never see, and always feel.",
+      "pills": ["Data", "API", "Cloud"]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Model the data and rules.",
+      "body": "Before any code: <b>what you store, how it connects</b> and the business rules it must follow. Then we pick the right database."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Design the API first.",
+      "body": "We agree the <b>REST or GraphQL contract</b> up front, so web and mobile teams can build against it in parallel."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Build it with tests.",
+      "body": "Node.js and TypeScript, Python/FastAPI or .NET, chosen to fit. <b>Automated tests</b> catch problems before your users do."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Secure and deploy.",
+      "body": "Authentication, secrets kept out of the code, <b>Docker and CI/CD</b> pipelines, and deployment on AWS."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Monitor and improve.",
+      "body": "Launch is the start. We <b>watch errors and performance</b> and improve as real usage grows."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Building a product?",
+      "title": "Let's design <em>your backend.</em>",
+      "sub": "Tell us what your app needs to do. We'll suggest how we'd build it.",
+      "button": "DM us “API”"
+    }
+  ]
+}

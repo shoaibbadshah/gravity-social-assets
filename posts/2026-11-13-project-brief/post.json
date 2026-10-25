@@ -1,0 +1,48 @@
+{
+  "publish": "2026-11-13T21:30:00",
+  "pillar": "education",
+  "topic": "What to put in a project brief so dev teams can quote it properly",
+  "caption": "\"Can you quote me for an app?\" A good brief turns that into a real answer. 📝\n\nWhat to put in yours:\n\n1️⃣ The problem and who it's for\n2️⃣ The one core user journey\n3️⃣ Must-haves vs nice-to-haves\n4️⃣ Integrations and existing systems\n5️⃣ Timeline, budget range and who maintains it\n\nOne page is enough. You'll get clearer quotes and better questions back. Swipe for the details. →\n\nWriting a brief now? DM us BRIEF and we'll tell you what's missing.\n\nSave this for before you contact any dev team. 🔖\n\n#ProjectBrief #AppDevelopment #WebDevelopment #StartupTips #Founders #ProductManagement #SoftwareDevelopment #Entrepreneur",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Founder's guide",
+      "title": "What to put in your <em>project brief.</em>",
+      "sub": "One page that gets you clearer quotes. Swipe →"
+    },
+    {
+      "type": "list",
+      "eyebrow": "The what",
+      "title": "Start with the product",
+      "items": [
+        "<b>The problem</b> and who it's for",
+        "<b>The core journey:</b> the one thing users must be able to do",
+        "<b>Must-haves vs nice-to-haves,</b> clearly split"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "The how",
+      "title": "Then the constraints",
+      "items": [
+        "<b>Integrations:</b> payments, maps, CRMs, existing systems",
+        "<b>Timeline</b> and a realistic budget range",
+        "<b>Who maintains it</b> after launch"
+      ]
+    },
+    {
+      "type": "point",
+      "n": "→",
+      "title": "Keep it to one page.",
+      "body": "A short, clear brief gets you <b>comparable quotes</b> and better questions from every team you talk to."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Writing one now?",
+      "title": "We'll tell you <em>what's missing.</em>",
+      "sub": "Send us your brief or your idea in a few lines.",
+      "button": "DM us “BRIEF”"
+    }
+  ]
+}

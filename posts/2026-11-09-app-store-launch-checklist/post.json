@@ -1,0 +1,53 @@
+{
+  "publish": "2026-11-09T21:30:00",
+  "pillar": "education",
+  "topic": "App Store & Google Play launch checklist: 5 things before you submit",
+  "caption": "Your app is built. Now the stores have to say yes. 📲\n\n5 things to sort out before you submit to the App Store and Google Play:\n\n1️⃣ Developer accounts set up early\n2️⃣ Privacy policy and data disclosures\n3️⃣ Store listing: icon, screenshots, description\n4️⃣ A demo login for reviewers\n5️⃣ Buffer time for review and fixes\n\nMiss one and your launch date slips. Swipe for what to check in each. →\n\nGetting ready to ship? DM us STORE and we'll walk through this list with you.\n\nSave this for launch week. 🔖\n\n#AppLaunch #AppStore #GooglePlay #MobileAppDevelopment #iOSDevelopment #AndroidDevelopment #StartupTips #Founders",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Launch checklist",
+      "title": "Before you submit to the <em>app stores.</em>",
+      "sub": "5 things that keep launch on track. Swipe →",
+      "pills": ["App Store", "Google Play"]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Set up developer accounts early.",
+      "body": "Apple and Google both <b>verify new developer accounts</b>, and that can take time. Start this weeks before launch, not on launch day."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Privacy policy and data disclosures.",
+      "body": "Both stores ask for a <b>privacy policy link</b> and details on what data your app collects. Have them ready before you submit."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "A store listing that sells.",
+      "body": "Icon, <b>screenshots</b>, a clear description and the right category. This is your app's shop window."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "A demo login for reviewers.",
+      "body": "If your app needs an account, give reviewers a <b>working test login</b>. Without one, review can stall or fail."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Leave buffer for review.",
+      "body": "Reviews take time and can come back with <b>requests for changes</b>. Don't announce a date that leaves no room for fixes."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Launching soon?",
+      "title": "Ship to the stores <em>without surprises.</em>",
+      "sub": "Tell us where you are and we'll walk through this list with you.",
+      "button": "DM us “STORE”"
+    }
+  ]
+}
