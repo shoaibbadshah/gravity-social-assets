@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-16T21:30:00",
+  "pillar": "education",
+  "topic": "REST vs GraphQL: which API style fits your product",
+  "caption": "REST or GraphQL? Your API is how every screen of your app talks to the backend, so the style matters. 🔌\n\nThe founder's version:\n\n✅ REST when your data is simple and predictable, with a few clients and clear resources\n✅ GraphQL when many screens need different slices of connected data, across web and mobile\n✅ Decide on how your apps will use the data, not on what's trending\n\nSwipe for the details. →\n\nNot sure which fits your product? DM us API with a one-line description and we'll tell you what we'd pick and why.\n\nSave this for your next tech decision. 🔖\n\n#API #GraphQL #RESTAPI #BackendDevelopment #SoftwareArchitecture #StartupTips #Founders #TechStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Founder's guide",
+      "title": "REST or GraphQL: which API does <em>your app</em> need?",
+      "sub": "It depends on how your screens use data. Swipe&nbsp;→"
+    },
+    {
+      "type": "compare",
+      "eyebrow": "The short version",
+      "title": "Two API styles",
+      "cols": [
+        {
+          "k": "Endpoints",
+          "name": "REST",
+          "text": "One URL per resource: users, orders, payments. Simple, widely understood and easy to cache."
+        },
+        {
+          "k": "One flexible endpoint",
+          "name": "GraphQL",
+          "text": "Each screen asks for exactly the fields it needs, in one request. More setup up front."
+        }
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Choose REST when…",
+      "body": "your data is <b>simple and predictable</b>: a few clients, clear resources, and screens that mostly show one thing at a time."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Choose GraphQL when…",
+      "body": "<b>many screens need different slices</b> of connected data, often across a web app and a mobile app at once."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Don't decide on hype.",
+      "body": "Both are proven. Decide on <b>how your apps use the data</b> and who will maintain the API later."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Free API advice",
+      "title": "Not sure which fits <em>your product?</em>",
+      "sub": "Send us a one-line description. We'll tell you which we'd pick and why.",
+      "button": "DM us “API”"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "publish": "2026-11-19T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: one team for web, mobile and backend",
+  "caption": "Three vendors for web, mobile and backend? Or one team that builds the whole product? 🧩\n\nWe build full-stack, and here's why that helps founders:\n\n▸ One API contract, designed once for web and mobile\n▸ No finger-pointing when something breaks between layers\n▸ One plan, one set of milestones, one place to ask questions\n\nWeb with React and Next.js, mobile with React Native, backend with Node.js, Python/FastAPI or .NET, all through our ISO-certified process. Swipe for more. →\n\nBuilding a product with more than one piece? DM us TEAM and tell us what it needs.\n\nShare this with a founder juggling vendors. 🔁\n\n#FullStackDevelopment #WebDevelopment #MobileAppDevelopment #BackendDevelopment #HowWeWork #Founders #StartupTips #SoftwareDevelopment",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "One team for <em>the whole product.</em>",
+      "sub": "Web, mobile and backend, built together.",
+      "pills": ["Web", "Mobile", "Backend"]
+    },
+    {
+      "type": "compare",
+      "eyebrow": "Two ways to build",
+      "title": "Split vs one team",
+      "cols": [
+        {"k": "Split", "name": "Three vendors", "text": "Separate teams for web, app and API. More handoffs, and gaps nobody owns."},
+        {"k": "Full-stack", "name": "One team", "text": "One plan across every layer, designed to fit together from day one."}
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why it helps founders",
+      "title": "What you get",
+      "items": [
+        "<b>One API contract,</b> designed once for web and mobile",
+        "<b>No finger-pointing</b> when something breaks between layers",
+        "<b>One set of milestones</b> and one place to ask questions"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What we build with",
+      "title": "Every layer, one team",
+      "items": [
+        "<b>Web:</b> React and Next.js",
+        "<b>Mobile:</b> React Native for iOS and Android",
+        "<b>Backend:</b> Node.js, Python/FastAPI or .NET on AWS"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "More than one piece?",
+      "title": "Let's build it <em>as one product.</em>",
+      "sub": "Tell us what your product needs. We'll show you how we'd build it.",
+      "button": "DM us “TEAM”"
+    }
+  ]
+}

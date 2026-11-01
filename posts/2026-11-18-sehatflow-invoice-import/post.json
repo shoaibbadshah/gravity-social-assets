@@ -1,0 +1,33 @@
+{
+  "publish": "2026-11-18T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "SehatFlow: AI-assisted invoice import (less manual typing)",
+  "caption": "Every supplier delivery comes with an invoice. Someone has to type it in. 🧾\n\nIn SehatFlow, the pharmacy management platform we built in-house, we added AI-assisted invoice import to cut down that manual data entry.\n\nWhy it matters:\n\n▸ Less typing line by line at the end of a long day\n▸ Purchases land in the same workspace as inventory and sales\n▸ Reports run on the same data, not a separate spreadsheet\n\nThat's how we use AI in products: on the boring, repetitive step, so people can focus on the work that needs them.\n\nRun a pharmacy? Take a look at sehatflow.com 🔗\n\nShare this with a pharmacy owner you know. 🔁\n\n#SehatFlow #PharmacySoftware #HealthTech #PharmacyManagement #SaaS #AI #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Built by Gravity",
+      "title": "Less typing,<br><em>more pharmacy.</em>",
+      "sub": "SehatFlow's AI-assisted invoice import.",
+      "pills": ["SehatFlow", "SaaS", "AI"]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why it matters",
+      "title": "AI on the boring step",
+      "items": [
+        "<b>Less manual typing</b> of supplier invoices",
+        "<b>Purchases land</b> in the same workspace as stock and sales",
+        "<b>Reports</b> run on the same data, not a separate sheet"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "See it for yourself",
+      "title": "Run a pharmacy? <em>Take a look.</em>",
+      "sub": "Sales, inventory, purchasing and reporting in one place.",
+      "button": "sehatflow.com"
+    }
+  ]
+}

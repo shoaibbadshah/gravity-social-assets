@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-17T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: from your first message to project kickoff",
+  "caption": "What happens after you message a dev team? Here's how we take a project from first message to kickoff. 🚀\n\n1️⃣ We listen: the problem, the users, the goal\n2️⃣ We scope the core: what version one really needs\n3️⃣ We pick the stack: web, mobile, backend, chosen to fit\n4️⃣ We plan it: milestones you can see and review\n5️⃣ We kick off: one team, clear next steps\n\nNo surprises, and all through our ISO-certified process. Swipe for each step. →\n\nHave a project in mind? DM us START and tell us what you want to build.\n\nShare this with someone planning a product. 🔁\n\n#SoftwareDevelopment #AppDevelopment #WebDevelopment #HowWeWork #Founders #StartupTips #ProductDevelopment #TechStartup",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "From first message <em>to kickoff.</em>",
+      "sub": "What happens before we write a line of code.",
+      "pills": [
+        "Scope",
+        "Stack",
+        "Plan"
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "We listen first.",
+      "body": "The <b>problem, the users and the goal</b>. Not a feature list yet, just what success looks like for you."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "We scope the core.",
+      "body": "Together we find the <b>one core user journey</b> and what version one really needs. The rest can wait."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "We pick the stack.",
+      "body": "Web, mobile, backend: <b>proven tools chosen to fit</b> your product and who will maintain it."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "We plan it with you.",
+      "body": "Clear <b>milestones you can see and review</b>, so you always know what's next and what's done."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "We kick off.",
+      "body": "One team, clear next steps, and our <b><span style=\"white-space:nowrap\">ISO-certified</span> process</b> from day one."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Have a project in mind?",
+      "title": "Let's start <em>with your idea.</em>",
+      "sub": "Tell us what you want to build. We'll tell you how we'd approach it.",
+      "button": "DM us “START”"
+    }
+  ]
+}

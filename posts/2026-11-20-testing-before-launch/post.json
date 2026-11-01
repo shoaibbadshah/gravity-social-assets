@@ -1,0 +1,52 @@
+{
+  "publish": "2026-11-20T21:30:00",
+  "pillar": "education",
+  "topic": "Testing before launch: 5 checks that catch bugs before users do",
+  "caption": "Your users shouldn't be your testers. 5 checks to run before launch. 🧪\n\n1️⃣ The core journey, end to end\n2️⃣ Real devices and browsers\n3️⃣ Bad input and bad connections\n4️⃣ Permissions and roles\n5️⃣ A quick load test\n\nA bug found before launch costs minutes. The same bug found by users costs reviews and trust. Swipe for what to check in each. →\n\nLaunching soon? DM us TEST and we'll walk through this list with you.\n\nSave this for launch week. 🔖\n\n#SoftwareTesting #QA #AppLaunch #WebDevelopment #MobileAppDevelopment #StartupTips #Founders #SoftwareDevelopment",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Launch checklist",
+      "title": "Your users shouldn't be <em>your testers.</em>",
+      "sub": "5 checks to run before you launch. Swipe →"
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "The core journey, end to end.",
+      "body": "Sign up, do the main thing, pay, log out. <b>Walk it like a new user</b>, every time something changes."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Real devices and browsers.",
+      "body": "Test on <b>real iPhones and Android phones</b>, small screens, and the browsers your users actually use."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Bad input, bad connections.",
+      "body": "Empty forms, odd characters, <b>slow or dropped networks</b>. Your app should fail gracefully, not crash."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Permissions and roles.",
+      "body": "Can a regular user reach admin pages? <b>Check every role</b> sees only what it should."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "A quick load test.",
+      "body": "Launch day brings a spike. <b>Simulate many users at once</b> and see what slows down first."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Launching soon?",
+      "title": "Let's check <em>your app.</em>",
+      "sub": "We'll walk through this list with you before launch.",
+      "button": "DM us “TEST”"
+    }
+  ]
+}
