@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-27T21:30:00",
+  "pillar": "services",
+  "topic": "How we work: from code change to live release (CI/CD)",
+  "caption": "How does a code change get from a developer's screen to your users, safely? Here's how we ship. 🚢\n\n1️⃣ Every change is reviewed by another developer\n2️⃣ Automated tests run on every change\n3️⃣ Docker builds the same app every time\n4️⃣ CI/CD deploys to a test environment first\n5️⃣ Release with a way back if something goes wrong\n\nFewer surprises on release day, and all through our ISO-certified process. Swipe for each step. →\n\nWant releases that don't keep you up at night? DM us SHIP and tell us about your product.\n\nShare this with someone who dreads deploy day. 🔁\n\n#CICD #DevOps #Docker #AWS #SoftwareDevelopment #HowWeWork #Founders #StartupTips",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "How we work",
+      "title": "From code change <em>to live release.</em>",
+      "sub": "How we ship updates without the release-day drama.",
+      "pills": [
+        "Review",
+        "Test",
+        "Deploy"
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Every change is reviewed.",
+      "body": "No code goes in unseen. <b>A second developer reviews it</b> for bugs, security and clarity before it's merged."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Tests run automatically.",
+      "body": "Each change triggers <b>automated tests</b>, so a fix in one place doesn't quietly break another."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Same build, every time.",
+      "body": "The app is packaged with <b>Docker</b>, so what we test is exactly what runs live. No “works on my machine”."
+    },
+    {
+      "type": "point",
+      "n": "04",
+      "title": "Test environment first.",
+      "body": "<b>CI/CD pipelines</b> deploy to a test environment first, where the change is checked before real users see it."
+    },
+    {
+      "type": "point",
+      "n": "05",
+      "title": "Release with a way back.",
+      "body": "We release to production on AWS with <b>a plan to roll back</b> quickly if anything looks wrong."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Shipping a product?",
+      "title": "Releases that <em>don't keep you up.</em>",
+      "sub": "Tell us about your product. We'll show you how we'd ship it.",
+      "button": "DM us “SHIP”"
+    }
+  ]
+}

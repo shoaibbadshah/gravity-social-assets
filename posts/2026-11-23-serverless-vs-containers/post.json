@@ -1,0 +1,57 @@
+{
+  "publish": "2026-11-23T21:30:00",
+  "pillar": "education",
+  "topic": "Serverless or containers: AWS Lambda vs Docker for your backend",
+  "caption": "Serverless or containers? It's one of the first backend decisions you'll make, and it shapes your hosting bill and your scaling. ☁️\n\nThe founder's version:\n\n✅ Serverless (AWS Lambda) when traffic is spiky or unpredictable and you want to pay per request\n✅ Containers (Docker) when you have steady traffic, long-running jobs or real-time connections\n✅ Mixing both is normal: plenty of products run a container API with serverless jobs around it\n\nSwipe for the details. →\n\nNot sure which fits your product? DM us CLOUD with a one-line description and we'll tell you what we'd pick and why.\n\nSave this for your next tech decision. 🔖\n\n#Serverless #AWSLambda #Docker #CloudComputing #BackendDevelopment #SoftwareArchitecture #StartupTips #Founders",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Founder's guide",
+      "title": "Serverless or containers for <em>your&nbsp;backend?</em>",
+      "sub": "It depends on your traffic and workload. Swipe&nbsp;→"
+    },
+    {
+      "type": "compare",
+      "eyebrow": "The short version",
+      "title": "Two ways to run it",
+      "cols": [
+        {
+          "k": "Pay per request",
+          "name": "Serverless",
+          "text": "Functions like AWS Lambda run only when called. No servers to manage, scales on its own."
+        },
+        {
+          "k": "Always on",
+          "name": "Containers",
+          "text": "Your app packaged with Docker and kept running. More control, steady and predictable."
+        }
+      ]
+    },
+    {
+      "type": "point",
+      "n": "01",
+      "title": "Choose serverless when…",
+      "body": "traffic is <b>spiky or unpredictable</b>, tasks are short, and you'd rather not pay for servers sitting idle."
+    },
+    {
+      "type": "point",
+      "n": "02",
+      "title": "Choose containers when…",
+      "body": "you have <b>steady traffic</b>, long-running jobs or real-time connections like live chat and tracking."
+    },
+    {
+      "type": "point",
+      "n": "03",
+      "title": "Mixing both is normal.",
+      "body": "Many products run <b>a container API with serverless jobs</b> around it. Choose per workload, not per company."
+    },
+    {
+      "type": "cta",
+      "eyebrow": "Free cloud advice",
+      "title": "Not sure which fits <em>your product?</em>",
+      "sub": "Send us a one-line description. We'll tell you which we'd pick and why.",
+      "button": "DM us “CLOUD”"
+    }
+  ]
+}

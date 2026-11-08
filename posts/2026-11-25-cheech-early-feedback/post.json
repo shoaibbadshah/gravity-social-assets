@@ -1,0 +1,36 @@
+{
+  "publish": "2026-11-25T21:30:00",
+  "pillar": "showcase/product",
+  "topic": "Cheech: early users shape the app (try it on Google Play)",
+  "caption": "The best roadmap for a new app comes from the people using it. 🚗\n\nCheech, the ride-sharing app we built, is live on Google Play, with iOS on its way to the App Store. That makes now the most useful time for feedback.\n\nWhy early feedback matters so much:\n\n▸ It shows what people actually use, not what we guessed\n▸ Small fixes early are cheaper than big fixes later\n▸ It shapes what's ready by the time iOS launches\n\nWe follow the same approach on every product we build: ship, listen, improve.\n\nOn Android? Search “Cheech” on Google Play, take it for a spin and tell us what you think in the comments. 👇\n\nShare this with a friend who's always looking for a ride. 🔁\n\n#Cheech #RideSharing #GooglePlay #AndroidApp #MobileAppDevelopment #ProductDevelopment #BuildInPublic",
+  "first_comment": "",
+  "slides": [
+    {
+      "type": "cover",
+      "eyebrow": "Cheech · ride-sharing",
+      "title": "Early users <em>shape&nbsp;the&nbsp;app.</em>",
+      "sub": "Cheech is live on Google Play, and we want to hear from you.",
+      "pills": [
+        "Android: live",
+        "iOS: coming soon"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Ship, listen, improve",
+      "title": "Why early feedback matters",
+      "items": [
+        "<b>Real usage</b> beats our best guesses",
+        "<b>Small fixes now</b> are cheaper than big fixes later",
+        "<b>Shapes what's ready</b> when iOS launches"
+      ]
+    },
+    {
+      "type": "cta",
+      "eyebrow": "On Android?",
+      "title": "Try Cheech. <em>Tell us what you think.</em>",
+      "sub": "Take a ride, then leave your feedback in the comments.",
+      "button": "Search “Cheech” on Google Play"
+    }
+  ]
+}
